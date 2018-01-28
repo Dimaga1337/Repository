@@ -1,0 +1,15 @@
+_benchmarks_
+.idea
+.vscode
+.grunt
+.module-cache
+
+*gem
+*.log*
+*sublime-project
+*sublime-workspace
+*.iml
+*chrome-user-data
+
+node_modules
+bundle.js
